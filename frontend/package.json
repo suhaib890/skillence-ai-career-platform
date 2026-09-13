@@ -1,0 +1,35 @@
+{
+  "name": "skillence-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.10.3",
+    "@supabase/supabase-js": "^2.108.0",
+    "clsx": "2.1.1",
+    "framer-motion": "11.11.9",
+    "lucide-react": "0.451.0",
+    "next": "^14.2.33",
+    "ogl": "^1.0.11",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "2.12.7",
+    "tailwind-merge": "2.5.4",
+    "zustand": "4.5.5"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.15.11",
+    "@types/node": "22.7.5",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.13",
+    "typescript": "5.6.3"
+  }
+}

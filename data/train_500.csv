@@ -1,0 +1,501 @@
+education,skills,interests,experience,passout_year,career_preference,target_career
+MBA,AI/ML;Communication;Critical Thinking;Data Analysis;Excel;Java;Problem Solving;SQL,Consulting;Data,1,2025,Government,Business Analyst
+MCA,Cybersecurity;Python;SQL,Coding;Startup,5,2020,Startup Culture,Cloud Engineer
+BCom,Data Analysis;Excel;Leadership;SQL,Business;Data,8,2017,High Salary,Operations Analyst
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Data,0,2026,Government,Research Analyst
+BCom,Communication;Data Analysis;Excel;Finance;Statistics,Data;Finance;Trading,2,2024,Job Security,Financial Analyst
+BBA,Communication;Data Analysis;Excel;Leadership;Marketing;Video Editing,Business;Management,2,2024,High Salary,HR Analyst
+MTech,Cloud;Machine Learning;Python;SQL;Teaching,Coding;Data,1,2025,Abroad Opportunity,AI Engineer
+BBA,Communication;Data Analysis;Excel;Finance;Statistics,Data;Finance,2,2024,Remote Job,Financial Analyst
+BTech,Cloud;Design;Leadership;Problem Solving;Python;SQL,Cybersecurity,2,2024,Remote Job,Cloud Engineer
+MTech,AI/ML;Cloud;Data Analysis;Machine Learning;SQL;Statistics,AI;Coding,3,2023,High Salary,ML Engineer
+MBA,Communication;Cybersecurity;Data Analysis;Leadership;Problem Solving,Business;Coding,1,2025,Job Security,HR Analyst
+MCA,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python,Coding;Data,3,2023,High Salary,Cybersecurity Analyst
+MBA,Communication;Critical Thinking;Cybersecurity;Excel;Leadership;Problem Solving;SQL,Business;Data,1,2025,Startup Culture,Business Analyst
+BTech,Cloud;Machine Learning;Python;Statistics,Coding,2,2023,High Salary,ML Engineer
+BCom,Communication;Data Analysis;Finance;Statistics;Teaching,Business;Coding;Data,3,2023,Job Security,Financial Analyst
+BA,Canva;Communication;Critical Thinking;Design;Problem Solving,Business;Design,3,2023,Fast Growth,UI/UX Designer
+MBA,Communication;Data Analysis;Excel;Marketing;Problem Solving,Business;Product Management,8,2018,Remote Job,Product Manager
+BTech,Cloud;Problem Solving;Python;SQL,Coding,1,2025,Remote Job,Software Engineer
+BCom,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Management,0,2026,Fast Growth,Management Consultant
+BBA,Communication;Data Analysis;Finance;Public Speaking;Statistics,Business;Management,3,2023,Fast Growth,Financial Analyst
+MCom,Critical Thinking;Design;Excel;Finance,Data;Trading,3,2022,High Salary,Investment Analyst
+MBA,Communication;Data Analysis;Excel;Marketing;Statistics,Business;Data,4,2021,Remote Job,Marketing Analyst
+BCom,Communication;Public Speaking;Writing,Marketing;Research,3,2023,Remote Job,Teacher
+MBA,Communication;Critical Thinking;Excel;Finance;Machine Learning;Statistics;Video Editing,Coding;Data;Finance,0,2026,High Salary,Investment Analyst
+BA,Communication;Critical Thinking;Public Speaking;Teaching;Writing,Healthcare;Research;Startup,0,2026,Job Security,Teacher
+BCA,Data Analysis;Marketing;Problem Solving,Business;Consulting;Startup,1,2025,Startup Culture,Product Manager
+MBA,Data Analysis;Excel;Finance;Marketing;Writing,Data;Marketing,1,2024,Government,Marketing Analyst
+BBA,Communication;Leadership;Marketing;Problem Solving;Statistics,Business;Startup,8,2018,Job Security,Product Manager
+BA,Critical Thinking;Public Speaking;Teaching,Teaching,0,2026,Fast Growth,Teacher
+MCom,Communication;Data Analysis;Excel;Finance;Public Speaking;Python;Statistics,Data;Finance,0,2025,Job Security,Financial Analyst
+BCA,Data Analysis;Excel;Power BI;Python;SQL;Statistics,Business,2,2024,Abroad Opportunity,Data Analyst
+BSc,AI/ML;Data Analysis;Machine Learning;Python;SQL;Statistics,Cybersecurity;Data,5,2021,Fast Growth,Data Scientist
+MCom,Critical Thinking;Excel;Statistics,Consulting;Data,8,2018,Startup Culture,Investment Analyst
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership,Business;Consulting,0,2026,High Salary,Management Consultant
+MCA,Cloud;Critical Thinking;Cybersecurity;Design,Cybersecurity,1,2025,High Salary,Cybersecurity Analyst
+BA,AI/ML;Canva;Video Editing;Writing,Design;Marketing,5,2021,Startup Culture,Digital Marketer
+BBA,Canva;Communication;Marketing;Teaching;Video Editing;Writing,Design;Marketing,1,2025,High Salary,Digital Marketer
+BCom,Communication;Critical Thinking;Data Analysis;Excel;Marketing;Python;SQL,Data,3,2023,Remote Job,Business Analyst
+MCA,Cloud;Problem Solving;SQL,Startup,2,2024,Remote Job,Cloud Engineer
+BA,Canva;Communication;Data Analysis;Marketing;Video Editing;Writing,Design;Trading,4,2022,Government,Digital Marketer
+BTech,AI/ML;Cloud;Machine Learning;Python;SQL;Statistics,AI;Coding,1,2024,High Salary,ML Engineer
+BCom,Data Analysis;Excel;Finance;Power BI;Statistics,Business;Finance,1,2025,Job Security,Financial Analyst
+BCA,AI/ML;Leadership;Marketing;Problem Solving,Marketing;Startup,3,2023,Job Security,Product Manager
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Consulting;Management,1,2025,Fast Growth,Management Consultant
+MBA,Communication;Leadership;Marketing;Public Speaking;Writing,Business;Coding;Startup,2,2023,Government,Sales Manager
+BA,Communication;Critical Thinking;Public Speaking;Teaching;Writing,Healthcare;Marketing;Teaching,1,2023,Job Security,Teacher
+MCom,Communication;Excel;Finance;Statistics,Business,1,2023,Government,Financial Analyst
+BTech,Cybersecurity;Java;Problem Solving;Public Speaking;Python;SQL,Cybersecurity,6,2020,Startup Culture,Cloud Engineer
+BBA,Communication;Data Analysis;Excel;Marketing;Python;Statistics,Business;Healthcare;Marketing,5,2021,Job Security,Marketing Analyst
+BTech,Canva;Communication;Data Analysis;Excel;Problem Solving;SQL,Data,6,2020,Government,Operations Analyst
+BTech,AI/ML;Cloud;Design;Machine Learning;Problem Solving;Python;SQL;Sales,Data,1,2025,High Salary,AI Engineer
+BA,Cloud;Communication;Critical Thinking;Public Speaking;Teaching;Writing,Healthcare,6,2020,Job Security,Teacher
+BA,Communication;Critical Thinking;Design;Public Speaking;Teaching,Research;Teaching,1,2025,Job Security,Teacher
+BBA,Canva;Communication;Marketing;Video Editing;Writing,Startup,3,2023,Startup Culture,Digital Marketer
+BBA,Communication;Excel;Java;Leadership;Problem Solving,Business,5,2021,Job Security,HR Analyst
+MCom,Cloud;Communication;Critical Thinking;Public Speaking;Python;Teaching,Healthcare,2,2023,Remote Job,Teacher
+BSc,Communication;Data Analysis;Python;SQL;Statistics,AI;Research,3,2023,Fast Growth,Data Scientist
+BCA,Cloud;Cybersecurity;Public Speaking;Python;SQL;Sales,Cybersecurity,3,2023,Remote Job,Cloud Engineer
+BBA,Communication;Data Analysis;Excel;Marketing;Statistics,Business;Coding;Data,4,2021,Abroad Opportunity,Marketing Analyst
+MTech,AI/ML;Cloud;Machine Learning;Public Speaking;Python;SQL;Statistics;Teaching,Data,4,2021,High Salary,ML Engineer
+BSc,Communication;Critical Thinking;Teaching,Healthcare;Teaching,0,2026,Government,Teacher
+BCom,Communication;Critical Thinking;Data Analysis;Excel;SQL;Tableau;Video Editing,Business;Consulting;Healthcare,1,2025,Government,Business Analyst
+BCA,Data Analysis;Excel;Power BI;SQL,AI;Data,5,2021,Startup Culture,Data Analyst
+MCA,AI/ML;Data Analysis;Leadership;Problem Solving;Python;SQL;Statistics,AI;Data,0,2026,Remote Job,Data Scientist
+MCA,Cloud;Cybersecurity;Power BI;Problem Solving;Python;Writing,Consulting;Cybersecurity,0,2026,Remote Job,Cloud Engineer
+BTech,Canva;Cybersecurity;Python;SQL;Sales,Startup,6,2020,Remote Job,Cloud Engineer
+MBA,Data Analysis;Excel;Leadership,Data;Management,5,2021,Job Security,HR Analyst
+MCom,Communication;Critical Thinking;Cybersecurity;Data Analysis;Public Speaking;Statistics;Writing,Healthcare;Research,6,2020,Government,Research Analyst
+BTech,Cloud;Cybersecurity;Python;Writing,Coding;Data;Management,2,2024,Startup Culture,Cybersecurity Analyst
+BTech,AI/ML;Data Analysis;Excel;Machine Learning;Public Speaking;SQL;Statistics,AI;Business;Research,2,2024,Fast Growth,Data Scientist
+MTech,AI/ML;Communication;Machine Learning;Python;Statistics;Tableau,Data,2,2022,Fast Growth,Data Scientist
+Other,Canva;Communication;Marketing;Video Editing;Writing,Design;Startup,8,2018,Government,Digital Marketer
+BTech,Critical Thinking;Problem Solving;Public Speaking;Python,Coding;Cybersecurity;Management,5,2021,Fast Growth,Cybersecurity Analyst
+BSc,Canva;Communication;Critical Thinking;Design;Finance,Management;Startup,1,2025,Remote Job,UI/UX Designer
+BSc,Communication;Critical Thinking;Python;Tableau;Teaching;Writing,Data;Research;Teaching,6,2020,Job Security,Teacher
+Other,Canva;Communication;Machine Learning;Marketing;Video Editing;Writing,Finance;Startup,0,2026,Startup Culture,Digital Marketer
+MCom,Critical Thinking;Excel;Finance;Marketing;Statistics;Video Editing,Data;Finance;Marketing,4,2022,High Salary,Investment Analyst
+MBA,Data Analysis;Leadership;Marketing;Power BI;Problem Solving,Business,2,2024,Fast Growth,Product Manager
+MCA,Cloud;Cybersecurity;Machine Learning;Python,Startup;Teaching,4,2022,Remote Job,Cloud Engineer
+MBA,Canva;Communication;Excel;Finance;Problem Solving;Statistics,Data;Startup,0,2026,High Salary,Investment Analyst
+BA,Canva;Communication;Critical Thinking;Design;Problem Solving,Design;Startup,8,2018,Abroad Opportunity,UI/UX Designer
+BCom,Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL;Statistics,Business;Data,4,2020,Remote Job,Business Analyst
+BA,Canva;Communication;Data Analysis;Excel;Python,Data,2,2024,Government,Marketing Analyst
+MBA,Communication;Critical Thinking;Data Analysis;Excel;Marketing,Data;Management,0,2025,Startup Culture,Operations Analyst
+BBA,Canva;Communication;Marketing;Tableau;Video Editing;Writing,Design;Research;Startup,1,2025,Startup Culture,Digital Marketer
+BA,Communication;Critical Thinking;Power BI;Public Speaking;SQL,Research;Teaching,3,2023,Job Security,Teacher
+BBA,Communication;Data Analysis;Problem Solving,Product Management;Startup,8,2018,Startup Culture,Product Manager
+MBA,Data Analysis;Leadership;Marketing;Problem Solving;Tableau;Writing,Business,5,2021,High Salary,Product Manager
+Other,Canva;Communication;Critical Thinking;Cybersecurity;Design;Power BI,Startup,5,2021,Fast Growth,UI/UX Designer
+BTech,AI/ML;Data Analysis;Public Speaking;Python;Statistics,AI;Data,1,2025,Fast Growth,Data Scientist
+BCom,Communication;Critical Thinking;Data Analysis;Leadership;SQL;Tableau,Management,1,2025,High Salary,Management Consultant
+BBA,Communication;Leadership;Marketing;Public Speaking;Sales;Video Editing,Business;Design;Startup,3,2023,Job Security,Sales Manager
+BTech,Cloud;Critical Thinking;Power BI;Problem Solving;Python,Coding;Cybersecurity,3,2022,High Salary,Cybersecurity Analyst
+BA,Data Analysis;Excel;Java;Leadership;Problem Solving,Business;Data,5,2021,Job Security,HR Analyst
+BCom,Critical Thinking;Data Analysis;Finance;Leadership;Machine Learning;Problem Solving;Video Editing,Business;Consulting;Design,4,2022,Abroad Opportunity,Management Consultant
+BCom,Leadership;Marketing;Public Speaking;Sales,Startup,5,2021,Startup Culture,Sales Manager
+BBA,Communication;Data Analysis;Problem Solving,Marketing;Startup,1,2025,Fast Growth,Product Manager
+BBA,Communication;Data Analysis;Excel;Java;Marketing;Statistics,Data,3,2022,High Salary,Marketing Analyst
+BTech,Cybersecurity;Java;Problem Solving;Python,Cybersecurity;Startup,4,2022,Remote Job,Cloud Engineer
+BBA,Communication;Marketing;Public Speaking,Business;Design;Startup,0,2026,Government,Sales Manager
+MCA,AI/ML;Cloud;Communication;Java;Machine Learning;SQL;Statistics,AI;Coding,0,2026,High Salary,ML Engineer
+BBA,Communication;Critical Thinking;Leadership;Machine Learning;Marketing;Public Speaking;Sales,Business;Startup,3,2023,Abroad Opportunity,Sales Manager
+BBA,Communication;Data Analysis;Excel;Problem Solving;SQL;Sales;Teaching,Business;Cybersecurity;Data,1,2024,High Salary,Business Analyst
+BCA,Critical Thinking;Java;Problem Solving;Python;SQL;Sales,Coding,2,2024,Government,Software Engineer
+BBA,Communication;Data Analysis;Design;Excel;Finance;Video Editing,Business;Data;Healthcare,2,2024,Job Security,Financial Analyst
+MCA,Cloud;Critical Thinking;Java;Problem Solving;Python,AI;Coding,4,2022,Remote Job,Software Engineer
+BTech,AI/ML;Data Analysis;Machine Learning;Python;SQL;Statistics;Video Editing,Data,6,2020,Fast Growth,Data Scientist
+MTech,AI/ML;Cloud;Machine Learning;Python;SQL;Tableau,Coding;Management,3,2022,High Salary,AI Engineer
+MBA,Communication;Critical Thinking;Data Analysis;Design;Finance;Java;Leadership;Problem Solving,Consulting;Management;Trading,0,2025,High Salary,Management Consultant
+BTech,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Business,5,2021,Abroad Opportunity,Management Consultant
+BCom,Communication;Critical Thinking;Excel;Leadership;SQL;Statistics,Finance;Trading,3,2023,Abroad Opportunity,Investment Analyst
+BTech,Cloud;Cybersecurity;Leadership;Problem Solving;Python;SQL,Cybersecurity;Management;Startup,1,2023,Remote Job,Cloud Engineer
+BA,Communication;Critical Thinking;Data Analysis;Excel;Statistics;Teaching;Writing,Research,3,2023,Government,Research Analyst
+BTech,Cloud;Critical Thinking;Java;Problem Solving;Python;SQL,AI;Startup,1,2025,Government,Software Engineer
+MBA,Communication;Data Analysis;Leadership;Problem Solving;Python;Teaching,Product Management;Startup,5,2021,Job Security,Product Manager
+BA,Communication;Data Analysis;Excel;Leadership;Marketing;Problem Solving,Business;Management,1,2025,Job Security,HR Analyst
+MBA,Communication;Critical Thinking;Excel;Finance;Public Speaking;Statistics,Design;Trading,4,2022,High Salary,Investment Analyst
+MCA,Cybersecurity;Problem Solving;Public Speaking;Python;Tableau,Coding;Cybersecurity,1,2024,Remote Job,Cloud Engineer
+Other,Canva;Communication;Critical Thinking;Design;Problem Solving;Sales,Design;Startup,1,2025,Startup Culture,UI/UX Designer
+BTech,AI/ML;Cloud;Machine Learning;Python,AI;Research,3,2023,High Salary,AI Engineer
+MTech,AI/ML;Cloud;Leadership;Problem Solving;Python;SQL;Writing,Coding;Data,6,2020,High Salary,AI Engineer
+BCom,AI/ML;Excel;Finance;Python;Statistics,Business;Data,1,2024,Job Security,Financial Analyst
+BTech,AI/ML;Critical Thinking;Java;Problem Solving;Python;SQL,AI,4,2022,Remote Job,Software Engineer
+BBA,AI/ML;Communication;Critical Thinking;Excel;Statistics,Trading,2,2024,Startup Culture,Investment Analyst
+BSc,Critical Thinking;SQL;Statistics;Writing,Data;Research,2,2022,Government,Research Analyst
+BTech,Canva;Communication;Design;Statistics;Teaching,Design,2,2024,Government,UI/UX Designer
+BBA,Canva;Communication;Data Analysis;Leadership;Problem Solving;Sales,Business;Management,6,2020,Startup Culture,HR Analyst
+BTech,Cloud;Critical Thinking;Cybersecurity;Python;Tableau,Cybersecurity;Data;Trading,0,2025,Job Security,Cybersecurity Analyst
+BBA,Data Analysis;Finance;Marketing;SQL;Statistics,Marketing,0,2026,Fast Growth,Marketing Analyst
+BTech,Data Analysis;Excel;Power BI;SQL;Tableau;Teaching,AI;Data;Management,4,2022,Government,Data Analyst
+BBA,AI/ML;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL,Data;Management,1,2024,Abroad Opportunity,Business Analyst
+BBA,Cybersecurity;Leadership;Marketing;Public Speaking;Sales,Consulting;Startup,0,2024,Remote Job,Sales Manager
+MBA,Communication;Critical Thinking;Excel;Finance;Teaching,Data;Trading,0,2026,Government,Investment Analyst
+BTech,Cloud;Critical Thinking;Java;Problem Solving;Python;SQL,AI;Teaching,6,2020,Government,Software Engineer
+BCA,Critical Thinking;Data Analysis;Leadership;Marketing;Problem Solving,Business;Product Management,4,2022,Fast Growth,Product Manager
+BA,Communication;Leadership;Marketing;Power BI;Sales,Business;Management,5,2021,High Salary,Sales Manager
+BCom,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Healthcare,3,2022,Government,Research Analyst
+MCA,AI/ML;Cloud;Java;Machine Learning;Python;SQL,AI;Data,3,2022,Job Security,AI Engineer
+BTech,AI/ML;Machine Learning;SQL;Statistics;Writing,AI;Cybersecurity,5,2021,Government,ML Engineer
+BTech,Cloud;Cybersecurity;Problem Solving;Python;SQL,Startup,8,2018,Remote Job,Cloud Engineer
+BTech,AI/ML;Data Analysis;Excel;Leadership;Power BI;Python;SQL;Statistics,AI;Consulting,2,2022,Startup Culture,Data Analyst
+BTech,AI/ML;Canva;Cloud;Communication;SQL;Statistics,Coding,0,2026,Startup Culture,ML Engineer
+BCom,Communication;Excel;Problem Solving;SQL,Consulting;Data,1,2025,Abroad Opportunity,Business Analyst
+BTech,Data Analysis;Machine Learning;Python;SQL;Statistics,AI;Research,4,2022,Fast Growth,Data Scientist
+MCom,Critical Thinking;Excel;Finance;Statistics,Data;Trading,1,2025,High Salary,Investment Analyst
+BA,Canva;Communication;Critical Thinking;Java;Problem Solving,Design;Product Management,4,2022,Job Security,UI/UX Designer
+BBA,Communication;Data Analysis;Design;Excel;Problem Solving;Public Speaking;SQL,Business;Data,6,2020,Fast Growth,Operations Analyst
+BBA,Communication;Critical Thinking;Finance;Leadership;Problem Solving;Sales,Consulting;Cybersecurity,2,2024,Government,Management Consultant
+BA,Canva;Communication;Critical Thinking;Design,Design,3,2021,Abroad Opportunity,UI/UX Designer
+MBA,Communication;Data Analysis;Excel;Marketing;Statistics,Business;Data;Product Management,0,2026,Government,Marketing Analyst
+BSc,AI/ML;Cloud;Machine Learning;Power BI;SQL;Statistics,AI;Data,0,2026,Startup Culture,ML Engineer
+MTech,AI/ML;Cloud;Data Analysis;Machine Learning;Power BI;Python;SQL;Statistics,Coding,4,2022,High Salary,ML Engineer
+BCA,Cloud;Critical Thinking;Cybersecurity;Java;Problem Solving;Python;SQL;Video Editing,Startup,3,2023,Fast Growth,Software Engineer
+MBA,Communication;Data Analysis;Excel;Java;Leadership;Problem Solving;Statistics,Business;Data,4,2020,Job Security,HR Analyst
+MCA,AI/ML;Machine Learning;Public Speaking;Python;SQL;Statistics,AI,1,2025,Fast Growth,ML Engineer
+BCom,Canva;Communication;Machine Learning;Marketing;Public Speaking;Video Editing;Writing,Marketing;Product Management;Startup,0,2026,Startup Culture,Digital Marketer
+BTech,Communication;Excel;Problem Solving;SQL;Writing,Business;Cybersecurity;Data,5,2021,Fast Growth,Operations Analyst
+MBA,Communication;Data Analysis;Excel;Problem Solving;SQL,Business;Data,2,2023,Job Security,Operations Analyst
+BA,Marketing;Video Editing;Writing,Cybersecurity;Startup,8,2018,High Salary,Digital Marketer
+BTech,Critical Thinking;Data Analysis;Excel;Public Speaking;SQL;Statistics,Business;Research,2,2022,Government,Data Analyst
+BA,Communication;Critical Thinking;Machine Learning;Problem Solving;Public Speaking;Teaching;Writing,Healthcare;Research,0,2026,High Salary,Teacher
+MBA,Communication;Data Analysis;Excel;Finance;Machine Learning;Statistics,Business;Data,1,2025,Job Security,Financial Analyst
+BBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Business,1,2025,High Salary,Management Consultant
+BSc,Excel;Power BI;Python;SQL,Business,2,2024,High Salary,Data Analyst
+MCA,Cloud;Cybersecurity;Finance;Problem Solving,Data;Management,4,2021,High Salary,Cybersecurity Analyst
+BBA,Communication;Data Analysis;Excel;Problem Solving,Business;Consulting,2,2024,Remote Job,Business Analyst
+BTech,Cloud;Design;Java;Machine Learning;Problem Solving;Python;SQL,Coding;Data;Research,4,2022,High Salary,AI Engineer
+BTech,AI/ML;Cloud;Finance;Leadership;Machine Learning;Problem Solving;Python;SQL,Data;Research,1,2025,High Salary,AI Engineer
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Data;Research,0,2026,Government,Research Analyst
+BCA,Data Analysis;Excel;Python;Statistics,AI;Research,1,2025,Government,Data Analyst
+MBA,Data Analysis;Excel;Leadership;Problem Solving,Business,2,2024,Abroad Opportunity,HR Analyst
+BSc,AI/ML;Data Analysis;Design;Machine Learning;Statistics,AI;Research,0,2026,Job Security,Data Scientist
+MCA,AI/ML;Data Analysis;Machine Learning;Python;SQL;Statistics,Data,3,2023,Fast Growth,Data Scientist
+MTech,AI/ML;Data Analysis;Machine Learning;Python;SQL;Statistics,AI;Cybersecurity,4,2021,Fast Growth,Data Scientist
+BTech,Data Analysis;Excel;SQL;Statistics,Data,4,2022,High Salary,Data Analyst
+MBA,Communication;Data Analysis;Finance;Leadership;Problem Solving;Tableau,Consulting;Management,2,2024,High Salary,Management Consultant
+Other,Canva;Critical Thinking;Design,Product Management,0,2026,Startup Culture,UI/UX Designer
+MBA,Leadership;Marketing;Public Speaking,Startup,4,2022,Abroad Opportunity,Sales Manager
+MBA,Communication;Marketing;Public Speaking;Sales,Business;Coding;Startup,4,2021,Remote Job,Sales Manager
+BA,Canva;Communication;Cybersecurity;Marketing;Writing,Business;Startup,1,2025,Government,Digital Marketer
+MCA,Finance;Machine Learning;Python;SQL;Statistics,Coding;Data,4,2022,High Salary,ML Engineer
+MBA,Communication;Data Analysis;Excel;Marketing,Business;Coding;Data,1,2025,Remote Job,Marketing Analyst
+BCom,Communication;Data Analysis;Excel;SQL;Writing,Business,5,2021,Abroad Opportunity,Business Analyst
+BCom,Communication;Critical Thinking;Leadership;Teaching,Data;Teaching,2,2022,Job Security,Teacher
+12th PCM,Data Analysis;Excel;Power BI;Python;SQL,Business;Data;Design,6,2020,Government,Data Analyst
+BTech,Canva;Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving;Writing,Business;Management,1,2025,High Salary,Management Consultant
+BTech,Communication;Data Analysis;Finance;Problem Solving;SQL,Cybersecurity;Management,0,2026,Abroad Opportunity,Operations Analyst
+BTech,Canva;Communication;Critical Thinking;Design;Marketing;Problem Solving;Video Editing,Design;Product Management,5,2021,Remote Job,UI/UX Designer
+MBA,Communication;Data Analysis;Excel;Machine Learning;Marketing;Statistics,Data;Finance,2,2024,Startup Culture,Marketing Analyst
+BBA,Cloud;Communication;Critical Thinking;Data Analysis;Problem Solving;SQL,Data;Trading,4,2022,Fast Growth,Business Analyst
+BTech,Cloud;Critical Thinking;Problem Solving;SQL;Video Editing,Healthcare;Startup,5,2021,Fast Growth,Software Engineer
+BSc,Canva;Communication;Critical Thinking;Design;Problem Solving,Design,2,2022,High Salary,UI/UX Designer
+BTech,AI/ML;Cloud;Critical Thinking;Python,Coding;Data;Finance,6,2020,High Salary,Cybersecurity Analyst
+BBA,Communication;Leadership;Marketing;Public Speaking;Sales,Management,3,2023,Job Security,Sales Manager
+BBA,Data Analysis;Excel;Leadership;Writing,Business,5,2019,Job Security,HR Analyst
+BTech,Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL,Business;Data,0,2024,Abroad Opportunity,Business Analyst
+MBA,Communication;Data Analysis;Excel;Marketing;Statistics,Business;Marketing,6,2020,Fast Growth,Marketing Analyst
+BTech,Canva;Cloud;Data Analysis;Excel;Power BI;Python;SQL;Statistics,AI;Data,2,2022,Abroad Opportunity,Data Analyst
+BTech,Data Analysis;Leadership;Machine Learning;SQL;Statistics,AI;Consulting,2,2023,Fast Growth,Data Scientist
+MBA,Data Analysis;Excel;Leadership;Problem Solving,Data;Healthcare,1,2024,Job Security,HR Analyst
+MCA,AI/ML;Cloud;Data Analysis;Power BI;Python;SQL;Statistics,AI;Research,5,2020,Fast Growth,Data Scientist
+BBA,Canva;Communication;Data Analysis;Excel;Marketing;SQL;Statistics,Business;Marketing,2,2024,Job Security,Marketing Analyst
+BA,Communication;Data Analysis;Excel;Leadership;Writing,Consulting;Data;Management,3,2021,Job Security,HR Analyst
+BCom,AI/ML;Communication;Data Analysis;Design;Excel;Statistics,Finance,2,2024,Fast Growth,Financial Analyst
+MCom,Communication;Data Analysis;Excel;Finance;Problem Solving;Statistics,Data,1,2024,Fast Growth,Financial Analyst
+MBA,Communication;Data Analysis;Excel;Java;Marketing;Statistics,Marketing,5,2020,Abroad Opportunity,Marketing Analyst
+BBA,Canva;Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving;Tableau,Business;Management;Trading,0,2026,High Salary,Management Consultant
+MCA,Cloud;Java;Machine Learning;Problem Solving;Public Speaking;Python;SQL,AI;Coding;Product Management,1,2025,Remote Job,Software Engineer
+MCA,AI/ML;Data Analysis;Machine Learning;Marketing;Python;SQL;Statistics,Data;Research,5,2020,Fast Growth,Data Scientist
+BCA,Cloud;Critical Thinking;Java;Problem Solving;Python;SQL,Business;Coding;Startup,1,2025,Remote Job,Software Engineer
+BTech,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving;SQL;Video Editing,Business;Consulting;Management,0,2026,High Salary,Management Consultant
+MBA,Communication;Excel;Finance;Statistics,Business,1,2025,Job Security,Financial Analyst
+BCA,Communication;Critical Thinking;Data Analysis;Excel;Marketing;Problem Solving;SQL,Cybersecurity;Data,2,2024,Job Security,Business Analyst
+BTech,Cloud;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL;Tableau,Consulting;Data;Research,5,2021,Job Security,Business Analyst
+MCom,Critical Thinking;Excel;Finance,Finance;Trading,3,2023,High Salary,Investment Analyst
+BBA,Cloud;Data Analysis;Excel;Leadership,Business,3,2023,Job Security,HR Analyst
+BBA,Cybersecurity;Data Analysis;Excel;Leadership;Marketing,Cybersecurity;Data,3,2023,Job Security,Marketing Analyst
+MBA,Communication;Data Analysis;Excel;Problem Solving;Public Speaking;SQL,Management,8,2018,Job Security,Operations Analyst
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving;Python,Business;Consulting,5,2021,High Salary,Management Consultant
+BCA,Cloud;Critical Thinking;Java;Power BI;Problem Solving;Python,AI;Coding;Teaching,3,2023,Fast Growth,Software Engineer
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving;Python;SQL,Consulting,8,2017,Startup Culture,Management Consultant
+BTech,Communication;Cybersecurity;Data Analysis;Leadership;Power BI;Problem Solving,Business;Consulting,0,2026,Job Security,Product Manager
+BCom,Communication;Finance;Machine Learning;Statistics,Data;Finance,2,2023,Job Security,Financial Analyst
+MBA,Canva;Communication;Marketing;Video Editing,Marketing,0,2025,Remote Job,Digital Marketer
+MBA,Communication;Critical Thinking;Data Analysis;Finance,Business;Management,8,2018,High Salary,Management Consultant
+BCA,Cloud;Critical Thinking;Problem Solving;Python,Coding;Cybersecurity,1,2024,Remote Job,Cybersecurity Analyst
+BCA,Canva;Critical Thinking;Design;Excel;Problem Solving,Business;Startup,1,2025,Fast Growth,UI/UX Designer
+MBA,Canva;Communication;Critical Thinking;Excel;Finance;Power BI;Statistics,Data;Trading,0,2024,Job Security,Investment Analyst
+BA,Communication;Data Analysis;Statistics,Data,1,2025,Government,Research Analyst
+BCA,Canva;Communication;Critical Thinking;Design;Problem Solving,Product Management;Startup,1,2025,Government,UI/UX Designer
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Problem Solving,Business;Management,8,2018,High Salary,Management Consultant
+MBA,Communication;Critical Thinking;Data Analysis;Leadership;Problem Solving,Business,1,2025,High Salary,HR Analyst
+BCom,Communication;Data Analysis;Design;Finance;Statistics,Data,3,2023,Job Security,Financial Analyst
+BTech,Cloud;Cybersecurity;Data Analysis;Problem Solving;Sales,Design;Startup,6,2020,Government,Cloud Engineer
+BSc,AI/ML;Cloud;Communication;Power BI;Python;Statistics,AI;Data,1,2025,Government,ML Engineer
+BCA,Data Analysis;Excel;Power BI;Python;SQL;Statistics,Business;Data;Marketing,2,2024,Fast Growth,Data Analyst
+BA,Communication;Critical Thinking;Data Analysis;Public Speaking;Teaching;Writing,Product Management;Research,4,2022,Job Security,Teacher
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Data,8,2018,Government,Research Analyst
+BCA,Data Analysis;Finance;Java;Problem Solving;Python;SQL,Startup,2,2024,Remote Job,Software Engineer
+MBA,Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL,Business;Coding,4,2022,Job Security,Business Analyst
+BTech,AI/ML;Data Analysis;Python;SQL;Statistics,Research,4,2020,Government,Data Scientist
+MBA,Communication;Data Analysis;Leadership;Problem Solving,Data,3,2022,Fast Growth,HR Analyst
+12th PCB,Communication;Critical Thinking;Public Speaking;Teaching;Writing,Teaching,1,2025,Government,Teacher
+BSc,Communication;Data Analysis;Excel;Statistics;Teaching;Writing,Research,4,2022,Government,Research Analyst
+BSc,Data Analysis;Excel;Java;Power BI;Python;SQL;Statistics,Business,1,2025,Abroad Opportunity,Data Analyst
+BA,Canva;Communication;Critical Thinking;Design;Power BI;Problem Solving;Tableau,Design;Product Management,2,2022,Startup Culture,UI/UX Designer
+BBA,Canva;Communication;Data Analysis;Video Editing;Writing,Design;Marketing,2,2024,Startup Culture,Digital Marketer
+BTech,Cloud;Communication;Critical Thinking;Finance;Python;SQL,AI;Startup,0,2026,Remote Job,Software Engineer
+BSc,Communication;Public Speaking;Teaching;Writing,Healthcare;Research,1,2025,Job Security,Teacher
+BBA,Communication;Critical Thinking;Data Analysis;Design;Excel;Problem Solving,AI;Consulting,6,2020,High Salary,Business Analyst
+BA,AI/ML;Communication;Critical Thinking;Data Analysis;Design;Statistics;Writing,Healthcare,0,2025,Startup Culture,Research Analyst
+MBA,Communication;Critical Thinking;Data Analysis;Design;Problem Solving;SQL,AI;Business,4,2022,Fast Growth,Operations Analyst
+MTech,AI/ML;Cloud;Java;Machine Learning;Python;SQL;Video Editing,Coding;Data;Finance,1,2025,Startup Culture,ML Engineer
+BSc,Canva;Communication;Critical Thinking;Machine Learning;Python,Business;Startup,5,2019,Government,UI/UX Designer
+BTech,Cloud;Critical Thinking;Cybersecurity;Problem Solving,Cybersecurity,1,2024,High Salary,Cybersecurity Analyst
+MCA,AI/ML;Cloud;Finance;Machine Learning;Python;SQL;Video Editing,AI;Coding;Teaching,6,2019,Startup Culture,ML Engineer
+BBA,Communication;Data Analysis;Leadership;Marketing;Problem Solving;Writing,Product Management;Research,2,2024,Government,Product Manager
+BCom,Canva;Communication;Marketing;Power BI,Design;Marketing;Startup,2,2024,High Salary,Digital Marketer
+BBA,Communication;Critical Thinking;Data Analysis;Finance;Power BI;Statistics,Data,1,2023,Job Security,Financial Analyst
+BBA,Communication;Data Analysis;Excel;Finance;Marketing;Public Speaking,Marketing,0,2026,High Salary,Marketing Analyst
+MTech,AI/ML;Communication;Problem Solving;Python;SQL;Statistics,AI;Coding,6,2019,High Salary,AI Engineer
+BTech,Cloud;Cybersecurity;Problem Solving;Python;SQL,Cybersecurity,2,2024,Remote Job,Cloud Engineer
+MBA,AI/ML;Data Analysis;Design;Leadership;Problem Solving,Business;Product Management;Startup,2,2024,Fast Growth,Product Manager
+BBA,AI/ML;Excel;Machine Learning;Marketing;Statistics,Business;Consulting;Marketing,1,2025,Startup Culture,Marketing Analyst
+BCA,Critical Thinking;Java;Python;SQL,AI;Startup,5,2021,Abroad Opportunity,Software Engineer
+BCom,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Business;Consulting,2,2024,High Salary,Management Consultant
+BA,Communication;Leadership;Sales,Business;Healthcare;Management,5,2021,Fast Growth,Sales Manager
+MCA,AI/ML;Data Analysis;Excel;Finance;Machine Learning;Python;SQL;Statistics,AI;Design;Research,3,2023,Fast Growth,Data Scientist
+BCA,Excel;Power BI;Python;SQL;Statistics,AI;Healthcare,3,2022,Abroad Opportunity,Data Analyst
+BTech,Communication;Data Analysis;Marketing,Business;Startup;Trading,5,2019,Fast Growth,Product Manager
+MTech,Data Analysis;Machine Learning;Python;SQL;Statistics;Video Editing,AI,1,2025,Fast Growth,Data Scientist
+MCom,Critical Thinking;Finance;Statistics,Data;Trading,1,2023,High Salary,Investment Analyst
+12th PCB,Cloud;Communication;Critical Thinking;Problem Solving;Public Speaking;Teaching;Writing,Healthcare;Teaching,8,2018,Job Security,Teacher
+BTech,AI/ML;Cloud;Machine Learning;Python;SQL,Coding;Data,3,2022,High Salary,AI Engineer
+12th PCB,Critical Thinking;Sales;Teaching;Writing,Management;Research,2,2024,High Salary,Teacher
+BBA,Canva;Communication;Marketing;Video Editing;Writing,Design;Startup,6,2019,High Salary,Digital Marketer
+BSc,Canva;Cloud;Cybersecurity;SQL;Sales,Coding;Startup,2,2024,Government,Cloud Engineer
+BBA,Communication;Cybersecurity;Data Analysis;Excel;Leadership;Problem Solving,Business;Management,2,2024,High Salary,Operations Analyst
+BBA,Critical Thinking;Data Analysis;Excel;Problem Solving;SQL;Tableau;Writing,Business;Consulting,0,2025,Startup Culture,Business Analyst
+BA,Communication;Data Analysis;Excel;Leadership;Problem Solving;Statistics,Business;Data;Marketing,3,2022,Job Security,HR Analyst
+BCom,Communication;Data Analysis;Excel;Problem Solving;Python;SQL;Tableau,Data;Management,5,2021,Government,Operations Analyst
+BSc,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Public Speaking;Python;Tableau,Coding;Cybersecurity,1,2023,High Salary,Cybersecurity Analyst
+Other,Canva;Communication;Critical Thinking;Design,Design,1,2025,Job Security,UI/UX Designer
+MCA,Cloud;Critical Thinking;Java;Problem Solving;Public Speaking;Python;SQL,AI;Startup,4,2022,Remote Job,Software Engineer
+MBA,Critical Thinking;Data Analysis;Leadership;Problem Solving,Business,2,2024,High Salary,Management Consultant
+BTech,Cybersecurity;Design;Problem Solving;SQL;Sales,Coding,2,2024,Startup Culture,Cloud Engineer
+BCA,Data Analysis;Excel;Power BI;Python;SQL;Statistics,Data,0,2026,Job Security,Data Analyst
+12th PCM,AI/ML;Data Analysis;Power BI;Python;SQL;Statistics,AI;Business;Research,0,2026,Government,Data Analyst
+BA,Communication;Critical Thinking;Public Speaking;Writing,Research;Teaching,5,2020,Abroad Opportunity,Teacher
+MBA,Communication;Data Analysis;Excel;Machine Learning;Problem Solving;SQL,Business,3,2023,High Salary,Operations Analyst
+MCA,Cloud;Python;SQL,AI;Cybersecurity,8,2018,Remote Job,Cloud Engineer
+BBA,Communication;Data Analysis;Leadership;Marketing;Problem Solving,Business,4,2022,Fast Growth,Product Manager
+BTech,Cybersecurity;Python;SQL,Coding;Startup,3,2022,Remote Job,Cloud Engineer
+BCom,Communication;Critical Thinking;Excel;Finance;Statistics,Data;Trading,0,2025,Remote Job,Investment Analyst
+BCA,Communication;Data Analysis;Excel;Problem Solving;SQL,Business;Consulting,0,2026,Government,Business Analyst
+BTech,Critical Thinking;Java;Problem Solving;Python;SQL;Tableau,Coding;Management;Startup,4,2022,Abroad Opportunity,Software Engineer
+MBA,Communication;Data Analysis;Finance,Business;Finance,5,2021,Remote Job,Financial Analyst
+BCA,Cloud;Cybersecurity;Problem Solving;Python;SQL,Startup,1,2025,Startup Culture,Cloud Engineer
+BBA,Communication;Data Analysis;Java;Leadership;Marketing;Sales,Business,3,2023,Abroad Opportunity,Sales Manager
+BTech,AI/ML;Canva;Cloud;Machine Learning;Problem Solving;Python;SQL;Writing,AI;Coding,0,2026,High Salary,AI Engineer
+BTech,Communication;Data Analysis;Finance;Leadership;Problem Solving,Business;Product Management,2,2022,High Salary,Management Consultant
+BA,Communication;Marketing;Video Editing;Writing,Data;Marketing;Startup,0,2026,Government,Digital Marketer
+BCA,Cloud;Cybersecurity;Problem Solving;Python;SQL,Startup,2,2022,Remote Job,Cloud Engineer
+BA,Marketing;Public Speaking;Sales,Startup,2,2024,Government,Sales Manager
+BCom,Communication;Data Analysis;Excel;Problem Solving;SQL;Video Editing,Business;Data,3,2021,Job Security,Operations Analyst
+BTech,Communication;Data Analysis;Leadership;Teaching,Product Management;Startup,0,2025,Fast Growth,Product Manager
+BTech,Cloud;Design;Java;Problem Solving;SQL,Coding;Startup,2,2022,Startup Culture,Software Engineer
+BCA,Cloud;Critical Thinking;Problem Solving;Writing,Coding,1,2025,High Salary,Cybersecurity Analyst
+BA,Canva;Communication;Critical Thinking;Marketing;Problem Solving,Startup,2,2024,Fast Growth,UI/UX Designer
+BA,Cloud;Communication;Leadership;Marketing;Public Speaking;Sales,Business,2,2024,Fast Growth,Sales Manager
+BTech,Cloud;Cybersecurity;Machine Learning;Problem Solving;Python;SQL,Coding;Startup,2,2024,Remote Job,Cloud Engineer
+BA,Cloud;Communication;Video Editing;Writing,Design;Startup,4,2022,Startup Culture,Digital Marketer
+BSc,AI/ML;Cybersecurity;Data Analysis;Machine Learning;Power BI;SQL;Statistics,Coding;Data;Research,3,2023,Fast Growth,Data Scientist
+BCA,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python,Cybersecurity;Data,5,2021,High Salary,Cybersecurity Analyst
+MTech,AI/ML;Cloud;Machine Learning;Public Speaking;Python;SQL,Coding;Data;Finance,1,2025,High Salary,ML Engineer
+BSc,Communication;Critical Thinking;Power BI;Python;Statistics,Healthcare,1,2025,Abroad Opportunity,Research Analyst
+BCom,Excel;Finance;Statistics,Data,1,2025,Remote Job,Investment Analyst
+MBA,Communication;Data Analysis;Design;Excel;Finance;Statistics,Business;Finance,2,2024,Abroad Opportunity,Financial Analyst
+BCA,Critical Thinking;Data Analysis;Power BI;Python;Statistics,AI;Data,4,2022,High Salary,Data Analyst
+MBA,Communication;Excel;Power BI;Statistics;Writing,AI;Data;Marketing,4,2022,High Salary,Marketing Analyst
+BTech,Communication;Data Analysis;Leadership;Machine Learning;Marketing;Problem Solving,Startup,1,2025,Fast Growth,Product Manager
+BBA,Cloud;Communication;Data Analysis;Excel;Leadership,Business;Data;Startup,8,2018,Job Security,HR Analyst
+BCA,Cloud;Cybersecurity;Problem Solving;Python,Coding;Cybersecurity,2,2023,Remote Job,Cloud Engineer
+MBA,Communication;Cybersecurity;Leadership;Marketing;Public Speaking;Statistics,Startup,2,2024,Abroad Opportunity,Sales Manager
+BTech,Cloud;Critical Thinking;Problem Solving,Coding;Data;Marketing,4,2022,Job Security,Cybersecurity Analyst
+BBA,Communication;Data Analysis;Leadership,Business;Product Management,3,2023,Fast Growth,Product Manager
+BCom,Communication;Critical Thinking;Excel;Statistics,Finance;Teaching;Trading,3,2022,Startup Culture,Investment Analyst
+Other,Canva;Critical Thinking;Design;Problem Solving;Public Speaking,Design;Startup,1,2025,High Salary,UI/UX Designer
+MBA,Communication;Critical Thinking;Excel;Problem Solving;Python;SQL;Statistics,Business;Consulting,1,2025,High Salary,Business Analyst
+BTech,AI/ML;Canva;Cloud;Cybersecurity;Problem Solving;Python;SQL,Cybersecurity,3,2023,Job Security,Cloud Engineer
+BBA,Canva;Communication;Data Analysis;Problem Solving;SQL,Business;Data,5,2020,Job Security,Operations Analyst
+MBA,Communication;Leadership;Public Speaking;Sales,Business;Data;Management,2,2024,Fast Growth,Sales Manager
+BCA,Data Analysis;Excel;Power BI;Python;SQL;Statistics,AI;Consulting;Data,2,2022,High Salary,Data Analyst
+BSc,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python;Statistics;Teaching,Coding;Data,3,2023,High Salary,Cybersecurity Analyst
+BTech,Communication;Critical Thinking;Excel;Problem Solving;SQL,Business;Data,8,2018,Startup Culture,Business Analyst
+BTech,Cloud;Critical Thinking;Leadership;Python,Coding;Cybersecurity,2,2023,High Salary,Cybersecurity Analyst
+BTech,AI/ML;Machine Learning;Problem Solving;Python;SQL;Statistics;Teaching,Coding,1,2025,Fast Growth,ML Engineer
+BSc,Critical Thinking;Cybersecurity;Problem Solving;Python,Cybersecurity;Research,0,2025,High Salary,Cybersecurity Analyst
+MBA,Critical Thinking;Data Analysis;Leadership;Problem Solving;Teaching,Management;Product Management,2,2024,Fast Growth,Product Manager
+BTech,Communication;Critical Thinking;Data Analysis;Finance;Problem Solving,AI;Business;Management,0,2025,High Salary,Management Consultant
+BCom,Communication;Data Analysis;Excel;Finance;Problem Solving;SQL,Management;Marketing,8,2017,Fast Growth,Operations Analyst
+MBA,Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL;Tableau,Data;Startup,4,2021,Remote Job,Business Analyst
+BBA,Communication;Data Analysis;Excel;Leadership;Marketing;Public Speaking;Sales,Consulting;Management,1,2025,Fast Growth,Sales Manager
+BSc,Canva;Data Analysis;Python;SQL;Statistics,Business;Data,1,2025,Fast Growth,Data Analyst
+BTech,AI/ML;Cloud;Machine Learning;Power BI;Problem Solving;Python,Coding,6,2020,Startup Culture,AI Engineer
+BTech,Communication;Critical Thinking;Data Analysis;Finance;Marketing;Problem Solving,Business;Consulting;Healthcare,1,2024,Government,Management Consultant
+BCA,Cloud;Communication;Data Analysis;Excel;Python;Statistics,Data;Design,2,2023,High Salary,Data Analyst
+MBA,Communication;Marketing;Video Editing;Writing,Marketing;Startup,2,2024,Fast Growth,Digital Marketer
+BCom,Communication;Critical Thinking;Excel;Finance;Statistics;Teaching,Data;Trading,0,2025,High Salary,Investment Analyst
+MCom,Critical Thinking;Data Analysis;Machine Learning;SQL;Statistics;Writing,Coding;Research,2,2024,Government,Research Analyst
+BCA,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python;Statistics;Writing,Coding;Data;Teaching,3,2023,Fast Growth,Cybersecurity Analyst
+MCA,Critical Thinking;Problem Solving;Python,Cybersecurity,5,2021,High Salary,Cybersecurity Analyst
+BTech,Cloud;Cybersecurity;Public Speaking;Python,Coding;Startup,1,2025,High Salary,Cybersecurity Analyst
+BBA,AI/ML;Communication;Machine Learning;Marketing;Writing,Design;Marketing,5,2021,Startup Culture,Digital Marketer
+MBA,Communication;Critical Thinking;Data Analysis;Finance;Leadership;Problem Solving,Consulting;Management,4,2022,Startup Culture,Management Consultant
+BCA,Cloud;Critical Thinking;Cybersecurity;Java;Tableau,AI;Coding;Data,6,2018,High Salary,Cybersecurity Analyst
+MBA,AI/ML;Communication;Critical Thinking;Excel;Finance;Statistics,Finance;Marketing,4,2022,Remote Job,Investment Analyst
+BA,Critical Thinking;Data Analysis;Finance;Statistics;Writing,Research,5,2021,Government,Research Analyst
+MBA,Communication;Data Analysis;Excel;Problem Solving;SQL;Writing,Management;Teaching,3,2023,Government,Operations Analyst
+BCom,Leadership;Marketing;Public Speaking,Design;Startup,1,2024,Abroad Opportunity,Sales Manager
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Tableau;Writing,Data;Research,1,2024,Remote Job,Research Analyst
+MBA,Canva;Communication;Data Analysis;Finance;Leadership,Consulting;Management;Trading,3,2023,Remote Job,Management Consultant
+MBA,Canva;Communication;Data Analysis;Excel;Problem Solving;SQL,Consulting;Data;Management,1,2025,High Salary,Operations Analyst
+MBA,Communication;Data Analysis;Excel;Python;Tableau,Data,0,2025,Government,Marketing Analyst
+BA,Communication;Critical Thinking;Java;Sales;Statistics;Writing,Data;Research,1,2025,Government,Research Analyst
+BTech,Cloud;Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL,Consulting,4,2022,High Salary,Business Analyst
+MTech,Cloud;Java;Machine Learning;SQL;Statistics,AI;Cybersecurity,1,2025,High Salary,ML Engineer
+BCom,Communication;Critical Thinking;Excel;Finance;Marketing;Statistics,Business;Finance;Trading,4,2022,Government,Investment Analyst
+BCom,Communication;Critical Thinking;Data Analysis;Excel;Machine Learning;Statistics,AI;Data;Finance,1,2025,Abroad Opportunity,Financial Analyst
+BSc,Communication;Critical Thinking;Public Speaking;Teaching,Healthcare,1,2023,Job Security,Teacher
+BSc,AI/ML;Canva;Data Analysis;Machine Learning;Python;SQL;Statistics;Video Editing,Consulting;Data,1,2024,Fast Growth,Data Scientist
+BCom,Communication;Data Analysis;Java;Public Speaking;Statistics,Business;Design,2,2024,Job Security,Financial Analyst
+BTech,AI/ML;Cybersecurity;Excel;Power BI;Python;Statistics,Business;Research,4,2020,Startup Culture,Data Analyst
+BBA,Communication;Data Analysis;Excel;Leadership;Power BI;Problem Solving;Tableau,Business;Management,2,2024,Job Security,HR Analyst
+MBA,AI/ML;Communication;Excel;Leadership;Problem Solving;SQL,Business;Data,0,2026,Abroad Opportunity,HR Analyst
+BTech,Cloud;Critical Thinking;Java;Problem Solving;Python;SQL,Startup,2,2024,Remote Job,Software Engineer
+BTech,AI/ML;Cloud;Machine Learning;Problem Solving;Python;Statistics,AI;Data,3,2022,High Salary,AI Engineer
+BTech,AI/ML;Cloud;Machine Learning;Problem Solving;Public Speaking;Python;SQL,Coding;Data,1,2025,High Salary,AI Engineer
+BBA,Communication;Data Analysis;Leadership;Marketing;Problem Solving,Business,2,2023,Fast Growth,Product Manager
+BCom,Communication;Excel;Statistics,Business;Data,0,2026,Fast Growth,Marketing Analyst
+BBA,Communication;Leadership;Marketing;Public Speaking;Sales;Statistics;Video Editing,Finance;Management;Startup,0,2024,Remote Job,Sales Manager
+BTech,AI/ML;Java;Python;SQL;Statistics;Video Editing,Data,3,2023,High Salary,ML Engineer
+BTech,AI/ML;Cloud;Cybersecurity;Problem Solving;Python;SQL,Coding;Research,3,2021,High Salary,AI Engineer
+MBA,Canva;Communication;Marketing;Tableau;Video Editing;Writing,Data;Marketing,3,2023,Startup Culture,Digital Marketer
+MBA,Communication;Critical Thinking;Excel;Finance;Statistics,Data;Finance;Trading,0,2026,Startup Culture,Investment Analyst
+BA,Communication;Marketing;Video Editing;Writing,Design;Management;Startup,5,2021,Job Security,Digital Marketer
+BTech,AI/ML;Critical Thinking;Python;SQL;Statistics;Writing,Finance;Research,0,2026,Startup Culture,Data Scientist
+BCom,Communication;Data Analysis;Excel;Problem Solving;SQL;Video Editing,Data;Management;Marketing,0,2026,Remote Job,Operations Analyst
+BCom,Communication;Excel;Finance;Machine Learning;Statistics,Business;Data,3,2023,Job Security,Financial Analyst
+MBA,Communication;Data Analysis;Excel;SQL;Teaching,Management,1,2025,Startup Culture,Operations Analyst
+BBA,Communication;Data Analysis;Excel;Problem Solving,Business;Data,6,2020,Government,HR Analyst
+MBA,Communication;Data Analysis;Excel;Leadership;Marketing;SQL,Data;Research,2,2024,High Salary,Marketing Analyst
+BTech,Cloud;Critical Thinking;Problem Solving;Python;SQL,AI;Management;Startup,5,2020,Remote Job,Software Engineer
+BTech,AI/ML;Machine Learning;Problem Solving;Python;SQL,Coding;Data,2,2024,High Salary,AI Engineer
+Other,Canva;Design;Finance;Problem Solving,Product Management;Startup,2,2024,Abroad Opportunity,UI/UX Designer
+BTech,AI/ML;Cloud;Cybersecurity;Machine Learning;Python;SQL;Statistics;Teaching,Coding;Data;Startup,0,2026,Government,ML Engineer
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Finance;Research,4,2022,Government,Research Analyst
+BCom,Communication;Excel;Finance;Power BI;Statistics;Tableau,Data,4,2022,High Salary,Investment Analyst
+BTech,Canva;Data Analysis;Excel;Power BI;Python;SQL;Statistics;Writing,Coding;Data,3,2023,Abroad Opportunity,Data Analyst
+BA,Communication;Critical Thinking;Public Speaking;Video Editing,Healthcare;Research,3,2022,Job Security,Teacher
+BTech,AI/ML;Cloud;Cybersecurity;Machine Learning;Python,AI,3,2021,High Salary,AI Engineer
+MCom,Communication;Data Analysis;Statistics;Teaching;Writing,Healthcare;Research,0,2024,Job Security,Research Analyst
+BSc,Communication;Marketing;Sales;Statistics;Writing,AI;Data,6,2020,Government,Research Analyst
+BA,Communication;Critical Thinking;Design;Problem Solving,Consulting;Design;Product Management,4,2022,Job Security,UI/UX Designer
+BSc,Communication;Critical Thinking;Data Analysis;Java;Marketing;Statistics;Writing,Data;Research,6,2020,Government,Research Analyst
+MCA,AI/ML;Machine Learning;Public Speaking;Python;SQL,AI;Data,2,2024,High Salary,AI Engineer
+BTech,AI/ML;Problem Solving;Python;SQL,Coding;Data,1,2024,Remote Job,AI Engineer
+BCom,Canva;Communication;Machine Learning;Marketing;Video Editing;Writing,Marketing,5,2021,Startup Culture,Digital Marketer
+BTech,AI/ML;Data Analysis;Machine Learning;Python;SQL;Statistics,AI;Research,4,2022,Startup Culture,Data Scientist
+MCA,Cloud;Critical Thinking;Cybersecurity;Marketing;Power BI;Problem Solving;Python,Coding,2,2024,Job Security,Cybersecurity Analyst
+BTech,Data Analysis;Excel;Problem Solving;Python;SQL,Consulting;Data,5,2021,High Salary,Business Analyst
+MBA,AI/ML;Communication;Data Analysis;Excel;Problem Solving;Python;SQL,Business;Management;Startup,0,2026,Fast Growth,Operations Analyst
+MTech,AI/ML;Cloud;Machine Learning;Problem Solving;Public Speaking;Python;SQL,Coding,2,2024,High Salary,AI Engineer
+MBA,Communication;Data Analysis;Leadership;Python;Sales,Business;Coding;Startup,1,2025,Remote Job,Sales Manager
+BA,Canva;Critical Thinking;Problem Solving,Data;Product Management;Startup,2,2024,High Salary,UI/UX Designer
+MCom,Critical Thinking;Excel;Finance;Statistics,Trading,0,2025,Startup Culture,Investment Analyst
+BCom,Communication;Excel;Leadership;Problem Solving;SQL;Video Editing,Business;Coding;Management,1,2025,High Salary,HR Analyst
+MTech,AI/ML;Machine Learning;Public Speaking;SQL;Statistics,Coding;Data,2,2024,High Salary,ML Engineer
+BCom,AI/ML;Communication;Data Analysis;Excel;Finance;Python;Statistics,Finance,6,2020,Remote Job,Financial Analyst
+BBA,AI/ML;Communication;Data Analysis;Leadership;Problem Solving,Data;Design;Management,0,2026,Fast Growth,HR Analyst
+BBA,Cloud;Communication;Java;Marketing;Video Editing;Writing,Startup,5,2021,Job Security,Digital Marketer
+BCA,Data Analysis;Excel;Marketing;Power BI;Problem Solving;Python;SQL,Data,0,2025,Fast Growth,Data Analyst
+MBA,Canva;Communication;Design;Leadership;Marketing;Video Editing;Writing,Design,0,2026,Fast Growth,Digital Marketer
+MBA,Communication;Data Analysis;Statistics;Teaching,Business;Marketing,4,2022,Fast Growth,Marketing Analyst
+BCom,Critical Thinking;Data Analysis;Statistics;Writing,Data;Healthcare,1,2024,Government,Research Analyst
+BTech,Communication;Data Analysis;Leadership;Marketing,Product Management;Startup,2,2024,Fast Growth,Product Manager
+BBA,Excel;Finance;Sales;Statistics,Business;Data;Finance,1,2024,Abroad Opportunity,Financial Analyst
+BSc,AI/ML;Data Analysis;Machine Learning;Python;SQL,AI;Product Management,8,2018,Fast Growth,Data Scientist
+MCA,Cloud;Java;Machine Learning;Python;SQL;Statistics,Startup,3,2023,Remote Job,Software Engineer
+BTech,Cloud;Cybersecurity;Problem Solving,Startup,0,2026,Remote Job,Cloud Engineer
+MTech,AI/ML;Cloud;Machine Learning;Problem Solving;Python;SQL,AI;Data,0,2026,Job Security,AI Engineer
+BCA,Cloud;Critical Thinking;Problem Solving;Python;SQL,Coding,2,2024,Fast Growth,Software Engineer
+Other,Canva;Communication;Design;Sales,Marketing;Product Management;Startup,3,2023,Abroad Opportunity,UI/UX Designer
+MTech,Cloud;Machine Learning;Problem Solving;SQL;Tableau,Coding;Data,8,2018,High Salary,AI Engineer
+BTech,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python,Cybersecurity,2,2024,Government,Cybersecurity Analyst
+BBA,Communication;Data Analysis;Problem Solving,Business;Product Management,1,2024,Abroad Opportunity,Product Manager
+BTech,Communication;Critical Thinking;Data Analysis;Excel;Power BI;Problem Solving;SQL;Tableau,Business;Data,2,2024,Fast Growth,Business Analyst
+MCom,Communication;Critical Thinking;Data Analysis;Sales;Statistics;Teaching,Research,0,2026,Government,Research Analyst
+BCA,Cloud;Power BI;Python;SQL;Statistics,Business;Data,3,2023,Abroad Opportunity,Data Analyst
+BCom,Communication;Critical Thinking;Data Analysis;Excel;Finance;Statistics;Tableau,Finance,2,2023,Job Security,Investment Analyst
+BA,Cloud;Critical Thinking;Public Speaking;Writing,Healthcare;Research,5,2021,High Salary,Teacher
+BA,AI/ML;Communication;Critical Thinking;Data Analysis;Java;Statistics;Writing,Data;Healthcare,0,2026,Government,Research Analyst
+MTech,Cloud;Leadership;Machine Learning;Python;SQL;Statistics,Data,2,2024,Abroad Opportunity,ML Engineer
+MCA,AI/ML;Cloud;Critical Thinking;Machine Learning;Power BI;Python;SQL;Statistics,Coding;Data;Healthcare,1,2025,Government,ML Engineer
+BBA,Communication;Leadership;Marketing;Problem Solving;Public Speaking;Sales;Writing,Business;Healthcare,1,2024,High Salary,Sales Manager
+MBA,AI/ML;Communication;Data Analysis;Marketing;Sales;Statistics,Business;Trading,5,2021,Fast Growth,Marketing Analyst
+BCom,Communication;Data Analysis;Excel;Finance;Statistics;Teaching;Writing,Data;Finance,1,2025,Job Security,Financial Analyst
+BA,Communication;Data Analysis;Excel;Public Speaking;Statistics,Marketing,5,2021,Startup Culture,Marketing Analyst
+BCA,Data Analysis;Excel;Power BI;Python;SQL;Statistics,Business;Data,2,2024,Fast Growth,Data Analyst
+MCA,Excel;Leadership;Power BI;Python;SQL;Statistics,Business;Data,2,2024,Startup Culture,Data Analyst
+BTech,Cybersecurity;Problem Solving;Python;Writing,Coding;Startup,0,2026,Remote Job,Cloud Engineer
+MCA,Cloud;Critical Thinking;Java;Problem Solving;SQL,AI;Coding,0,2026,High Salary,Software Engineer
+BTech,Cloud;Critical Thinking;Java;Machine Learning;Problem Solving;SQL,AI;Coding,4,2022,Abroad Opportunity,Software Engineer
+BTech,Communication;Data Analysis;Marketing,Business;Product Management,3,2023,Abroad Opportunity,Product Manager
+BBA,Communication;Critical Thinking;Finance;Sales,Finance;Teaching,0,2025,Abroad Opportunity,Investment Analyst
+BCA,Cloud;Critical Thinking;Cybersecurity;Power BI;Python,Coding;Cybersecurity;Data,1,2025,High Salary,Cybersecurity Analyst
+MCom,Canva;Communication;Critical Thinking;Data Analysis;Problem Solving;Statistics;Writing,Data;Research,5,2021,Government,Research Analyst
+BTech,AI/ML;Cloud;Design;Machine Learning;Problem Solving;Python,Coding;Data,3,2022,Government,AI Engineer
+MBA,Cloud;Communication;Excel;Finance;Power BI,Finance;Trading,3,2022,Abroad Opportunity,Investment Analyst
+BA,Canva;Communication;Critical Thinking;Data Analysis;Design,Product Management;Startup;Trading,0,2025,Government,UI/UX Designer
+BTech,AI/ML;Cloud;Excel;Machine Learning;Marketing;Python;SQL,Coding,1,2025,High Salary,ML Engineer
+BSc,Cloud;Critical Thinking;Excel;Java;Problem Solving;Python;SQL,AI;Business;Coding,4,2021,Remote Job,Software Engineer
+BTech,AI/ML;Cloud;Machine Learning;Python;SQL;Statistics,AI;Coding,1,2025,High Salary,ML Engineer
+MCA,AI/ML;Cloud;Communication;Machine Learning;Problem Solving;Python;SQL,AI;Consulting;Data,1,2025,High Salary,AI Engineer
+BSc,AI/ML;Data Analysis;Finance;Python;SQL;Statistics,Data,6,2019,Remote Job,Data Scientist
+BCom,Cloud;Data Analysis;Leadership;Public Speaking;Sales,Business,1,2024,Job Security,Sales Manager
+BBA,Communication;Critical Thinking;Problem Solving;SQL;Tableau;Teaching,Consulting;Data;Product Management,1,2025,High Salary,Business Analyst
+BCom,Communication;Cybersecurity;Marketing;Sales;Writing,Marketing;Startup,1,2023,Startup Culture,Digital Marketer
+BBA,Communication;Critical Thinking;Data Analysis;Excel;Problem Solving;SQL,Business;Data,1,2024,Remote Job,Operations Analyst
+MCom,Communication;Data Analysis;Excel;Finance;Problem Solving;Statistics,Business;Coding;Finance,5,2019,Job Security,Financial Analyst
+BCA,Cloud;Critical Thinking;Java;SQL,AI;Startup;Trading,1,2025,Remote Job,Software Engineer
+Other,Canva;Communication;Excel;Power BI;Problem Solving,Design;Product Management,4,2022,Startup Culture,UI/UX Designer
+BTech,AI/ML;Machine Learning;Python;Statistics,Coding;Data,2,2024,High Salary,ML Engineer
+BA,Communication;Critical Thinking;Public Speaking;Writing,Research,4,2020,Remote Job,Teacher
+BSc,Communication;Critical Thinking;Data Analysis;Statistics;Writing,Healthcare;Research,0,2025,Government,Research Analyst
+MTech,AI/ML;Machine Learning;Python;Statistics;Writing,AI;Data;Research,2,2023,Fast Growth,Data Scientist
+BSc,Communication;Critical Thinking;Data Analysis;Public Speaking,Data;Healthcare,0,2026,Government,Research Analyst
+BBA,Communication;Data Analysis;Design;Marketing;Problem Solving;Statistics,Data;Healthcare;Marketing,3,2023,High Salary,Marketing Analyst
+BA,Design;Marketing;Problem Solving;Video Editing;Writing,Marketing;Startup;Teaching,4,2022,Startup Culture,Digital Marketer
+BCom,Communication;Design;Marketing;Public Speaking;Sales;Tableau,Consulting;Startup,0,2026,Government,Sales Manager
+BBA,Leadership;Marketing;Public Speaking;Sales,Business;Startup,3,2023,Government,Sales Manager
+MBA,Communication;Critical Thinking;Finance;Machine Learning;Problem Solving,Business;Management,0,2025,High Salary,Management Consultant
+BA,Communication;Critical Thinking;Public Speaking;Statistics;Teaching,Finance;Healthcare;Research,2,2024,Startup Culture,Teacher
+BTech,Cloud;Critical Thinking;Cybersecurity;Problem Solving;Python,Cybersecurity,6,2019,Startup Culture,Cybersecurity Analyst
+BCom,Communication;Data Analysis;Excel;Marketing;Statistics,Marketing;Trading,0,2026,Abroad Opportunity,Marketing Analyst
+MBA,Communication;Data Analysis;Machine Learning;Marketing;Problem Solving,Business;Healthcare,0,2025,Abroad Opportunity,Operations Analyst
+BCom,Communication;Data Analysis;Excel;Problem Solving;SQL;Teaching,Business;Teaching,6,2020,Job Security,Operations Analyst
+BBA,Communication;Leadership;Marketing;Public Speaking;Tableau,Product Management,3,2022,Fast Growth,Product Manager
+BBA,Communication;Data Analysis;Leadership;Problem Solving;Teaching,Data,8,2018,Fast Growth,HR Analyst
+MCA,AI/ML;Cloud;Design;Machine Learning;Problem Solving;Python,AI;Coding,0,2024,Abroad Opportunity,AI Engineer
+MTech,AI/ML;Critical Thinking;Data Analysis;Machine Learning;Python;SQL,Consulting;Research,2,2023,Fast Growth,Data Scientist
+BCom,Communication;Leadership;Public Speaking;Tableau,Business;Startup,3,2021,Fast Growth,Sales Manager
+BTech,Data Analysis;Problem Solving;Python;SQL,Business;Coding;Management,0,2025,Fast Growth,Operations Analyst
+MCom,Cloud;Communication;Critical Thinking;Public Speaking;Teaching;Writing,Marketing;Research,1,2024,Fast Growth,Teacher
+12th PCB,Communication;Public Speaking;Statistics;Teaching;Writing,Product Management;Research;Teaching,4,2022,Job Security,Teacher
+BA,Canva;Communication;Marketing;Problem Solving;Python,Design;Product Management,1,2024,Abroad Opportunity,UI/UX Designer
+MBA,Data Analysis;Excel;Leadership;Problem Solving;Public Speaking,Data,6,2020,Remote Job,HR Analyst
+MBA,AI/ML;Communication;Data Analysis;Marketing;Problem Solving,Product Management;Startup,4,2022,High Salary,Product Manager
+BCom,Communication;Data Analysis;Excel;Problem Solving;SQL,Business;Consulting;Management,1,2025,Remote Job,Operations Analyst
+BCom,Communication;Data Analysis;Excel;Leadership;Problem Solving;Sales,Consulting;Management,5,2021,High Salary,HR Analyst

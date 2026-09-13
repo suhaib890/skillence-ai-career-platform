@@ -1,0 +1,22 @@
+{
+  "Data Analyst":            { "demand_score": 90, "salary_range": "₹5–15 LPA",  "growth_score": 85, "growth_label": "High" },
+  "Business Analyst":        { "demand_score": 88, "salary_range": "₹6–16 LPA",  "growth_score": 82, "growth_label": "High" },
+  "AI Engineer":             { "demand_score": 97, "salary_range": "₹8–25 LPA",  "growth_score": 96, "growth_label": "Very High" },
+  "ML Engineer":             { "demand_score": 95, "salary_range": "₹9–28 LPA",  "growth_score": 94, "growth_label": "Very High" },
+  "Software Engineer":       { "demand_score": 92, "salary_range": "₹6–22 LPA",  "growth_score": 88, "growth_label": "High" },
+  "Financial Analyst":       { "demand_score": 80, "salary_range": "₹5–14 LPA",  "growth_score": 74, "growth_label": "Moderate" },
+  "Product Manager":         { "demand_score": 91, "salary_range": "₹12–35 LPA", "growth_score": 90, "growth_label": "Very High" },
+  "Marketing Analyst":       { "demand_score": 78, "salary_range": "₹4–12 LPA",  "growth_score": 75, "growth_label": "Moderate" },
+  "Cybersecurity Analyst":   { "demand_score": 93, "salary_range": "₹7–20 LPA",  "growth_score": 92, "growth_label": "Very High" },
+  "Data Scientist":          { "demand_score": 94, "salary_range": "₹9–26 LPA",  "growth_score": 93, "growth_label": "Very High" },
+  "Investment Analyst":      { "demand_score": 79, "salary_range": "₹6–18 LPA",  "growth_score": 72, "growth_label": "Moderate" },
+  "Cloud Engineer":          { "demand_score": 92, "salary_range": "₹7–24 LPA",  "growth_score": 91, "growth_label": "Very High" },
+  "UI/UX Designer":          { "demand_score": 83, "salary_range": "₹5–16 LPA",  "growth_score": 80, "growth_label": "High" },
+  "Sales Manager":           { "demand_score": 76, "salary_range": "₹5–18 LPA",  "growth_score": 70, "growth_label": "Moderate" },
+  "Operations Analyst":      { "demand_score": 74, "salary_range": "₹4–12 LPA",  "growth_score": 68, "growth_label": "Moderate" },
+  "Digital Marketer":        { "demand_score": 81, "salary_range": "₹4–13 LPA",  "growth_score": 79, "growth_label": "High" },
+  "Research Analyst":        { "demand_score": 72, "salary_range": "₹4–11 LPA",  "growth_score": 66, "growth_label": "Moderate" },
+  "Teacher":                 { "demand_score": 70, "salary_range": "₹3–9 LPA",   "growth_score": 60, "growth_label": "Stable" },
+  "HR Analyst":              { "demand_score": 71, "salary_range": "₹4–11 LPA",  "growth_score": 65, "growth_label": "Moderate" },
+  "Management Consultant":   { "demand_score": 86, "salary_range": "₹10–30 LPA", "growth_score": 84, "growth_label": "High" }
+}

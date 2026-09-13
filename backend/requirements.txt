@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+pydantic==2.9.2
+pydantic-settings==2.5.2
+psycopg2-binary==2.9.9
+catboost==1.2.7
+xgboost==2.1.1
+scikit-learn==1.5.2
+pandas==2.2.3
+# catboost 1.2.7 requires numpy<2.0; 1.26.4 is the latest 1.x and works with
+# pandas/scikit-learn/xgboost above. (Local dev may have 2.x, but this keeps the
+# pip resolver happy on a clean install / Render build.)
+numpy==1.26.4
+joblib==1.4.2

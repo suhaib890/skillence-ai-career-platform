@@ -1,0 +1,52 @@
+{
+  "Data Analyst": [
+    { "name": "Google Data Analytics Certificate", "level": "Beginner",     "why": "Covers spreadsheets, SQL and visualization end-to-end — ideal first credential." },
+    { "name": "Microsoft Power BI Data Analyst (PL-300)", "level": "Intermediate", "why": "Validates the BI/dashboarding skills most analyst roles ask for." },
+    { "name": "Databricks / SQL Advanced Analytics", "level": "Advanced",   "why": "Signals you can analyse at scale, separating you from entry-level applicants." }
+  ],
+  "Business Analyst": [
+    { "name": "IIBA ECBA",                          "level": "Beginner",     "why": "Entry BA credential covering requirements and stakeholder basics." },
+    { "name": "Google Data Analytics Certificate",  "level": "Intermediate", "why": "Adds the data fluency modern BAs are expected to have." },
+    { "name": "IIBA CBAP",                          "level": "Advanced",     "why": "Senior BA standard — strong signal for leadership-track roles." }
+  ],
+  "AI Engineer": [
+    { "name": "DeepLearning.AI Machine Learning Specialization", "level": "Beginner", "why": "Builds the ML foundations every AI engineer needs." },
+    { "name": "TensorFlow Developer Certificate",   "level": "Intermediate", "why": "Proves hands-on deep-learning implementation ability." },
+    { "name": "AWS Certified Machine Learning – Specialty", "level": "Advanced", "why": "Validates deploying and operating models in production." }
+  ],
+  "ML Engineer": [
+    { "name": "DeepLearning.AI ML Specialization",  "level": "Beginner",     "why": "Core ML theory + practice foundation." },
+    { "name": "AWS / GCP ML Engineer Associate",    "level": "Intermediate", "why": "Shows you can train and serve models on cloud infra." },
+    { "name": "AWS Certified ML – Specialty",       "level": "Advanced",     "why": "Top MLOps/production credential for senior roles." }
+  ],
+  "Data Scientist": [
+    { "name": "IBM Data Science Professional Certificate", "level": "Beginner", "why": "Broad, project-based intro to the full DS workflow." },
+    { "name": "DeepLearning.AI ML Specialization",  "level": "Intermediate", "why": "Strengthens the modelling depth interviews probe." },
+    { "name": "DeepLearning.AI Deep Learning Specialization", "level": "Advanced", "why": "Signals advanced modelling for competitive DS roles." }
+  ],
+  "Product Manager": [
+    { "name": "Google Project Management Certificate", "level": "Beginner",  "why": "Delivery and stakeholder fundamentals PMs rely on daily." },
+    { "name": "Product School PMC",                 "level": "Intermediate", "why": "Structured PM craft: discovery, roadmaps, metrics." },
+    { "name": "Pragmatic Institute Certification",  "level": "Advanced",     "why": "Strategy-level product credential for senior PM tracks." }
+  ],
+  "Cybersecurity Analyst": [
+    { "name": "CompTIA Security+",                  "level": "Beginner",     "why": "The standard entry credential recruiters filter for." },
+    { "name": "CompTIA CySA+",                      "level": "Intermediate", "why": "Focuses on threat detection and SOC analyst skills." },
+    { "name": "OSCP / CEH",                         "level": "Advanced",     "why": "Hands-on offensive skills that command higher salaries." }
+  ],
+  "Financial Analyst": [
+    { "name": "Bloomberg Market Concepts (BMC)",    "level": "Beginner",     "why": "Quick, recognised intro to markets and financial data." },
+    { "name": "CFA Level I",                        "level": "Intermediate", "why": "Gold-standard signal for analyst and research roles." },
+    { "name": "FMVA (CFI)",                         "level": "Advanced",     "why": "Deep financial-modelling credential prized in corporate finance." }
+  ],
+  "Software Engineer": [
+    { "name": "freeCodeCamp / Meta Front-end Cert", "level": "Beginner",     "why": "Demonstrates real coding ability with shippable projects." },
+    { "name": "AWS Certified Developer Associate",  "level": "Intermediate", "why": "Shows cloud-native development competence employers want." },
+    { "name": "Oracle Certified Professional Java", "level": "Advanced",     "why": "Depth credential for backend/enterprise engineering roles." }
+  ],
+  "Cloud Engineer": [
+    { "name": "AWS Cloud Practitioner",             "level": "Beginner",     "why": "Establishes cloud vocabulary and core services." },
+    { "name": "AWS Solutions Architect Associate",  "level": "Intermediate", "why": "The most-requested mid-level cloud credential." },
+    { "name": "Certified Kubernetes Administrator (CKA)", "level": "Advanced", "why": "Proves production container-orchestration skill." }
+  ]
+}

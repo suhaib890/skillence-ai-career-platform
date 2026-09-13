@@ -1,0 +1,62 @@
+{
+  "Data Analyst": [
+    { "name": "Sales Analytics Dashboard",        "difficulty": "Beginner",     "weeks": 1, "skills": ["Excel", "SQL", "Data Analysis"] },
+    { "name": "Customer Segmentation Analysis",    "difficulty": "Intermediate", "weeks": 2, "skills": ["Python", "Statistics", "Data Analysis"] },
+    { "name": "Retail KPI Reporting System",       "difficulty": "Intermediate", "weeks": 2, "skills": ["Power BI", "SQL", "Data Analysis"] },
+    { "name": "End-to-End Business Insights Report","difficulty": "Advanced",    "weeks": 3, "skills": ["SQL", "Power BI", "Statistics", "Python"] }
+  ],
+  "Business Analyst": [
+    { "name": "Requirements & Process Map",        "difficulty": "Beginner",     "weeks": 1, "skills": ["Communication", "Critical Thinking"] },
+    { "name": "Sales Funnel Analysis",             "difficulty": "Intermediate", "weeks": 2, "skills": ["Excel", "SQL", "Data Analysis"] },
+    { "name": "Stakeholder Reporting Dashboard",   "difficulty": "Intermediate", "weeks": 2, "skills": ["Data Analysis", "Communication"] },
+    { "name": "Product Improvement Case Study",    "difficulty": "Advanced",     "weeks": 2, "skills": ["Problem Solving", "Critical Thinking", "Data Analysis"] }
+  ],
+  "AI Engineer": [
+    { "name": "Spam / Sentiment Classifier",       "difficulty": "Beginner",     "weeks": 2, "skills": ["Python", "Machine Learning"] },
+    { "name": "Image Classification with CNNs",    "difficulty": "Intermediate", "weeks": 3, "skills": ["Machine Learning", "AI/ML", "Python"] },
+    { "name": "RAG Chatbot on Custom Docs",        "difficulty": "Advanced",     "weeks": 3, "skills": ["AI/ML", "Python", "Cloud"] },
+    { "name": "Model Deployment API on Cloud",     "difficulty": "Advanced",     "weeks": 2, "skills": ["Cloud", "Python", "Machine Learning"] }
+  ],
+  "ML Engineer": [
+    { "name": "Regression Pipeline on Real Data",  "difficulty": "Beginner",     "weeks": 2, "skills": ["Python", "Statistics", "Machine Learning"] },
+    { "name": "Feature Store + Training Pipeline",  "difficulty": "Intermediate", "weeks": 3, "skills": ["Python", "Machine Learning", "SQL"] },
+    { "name": "MLOps: CI/CD for Models",           "difficulty": "Advanced",     "weeks": 3, "skills": ["Cloud", "Machine Learning", "Python"] },
+    { "name": "Real-time Inference Service",       "difficulty": "Advanced",     "weeks": 2, "skills": ["Cloud", "Python"] }
+  ],
+  "Data Scientist": [
+    { "name": "Exploratory Data Analysis Notebook","difficulty": "Beginner",     "weeks": 1, "skills": ["Python", "Statistics", "Data Analysis"] },
+    { "name": "Churn Prediction Model",            "difficulty": "Intermediate", "weeks": 3, "skills": ["Machine Learning", "Python", "Statistics"] },
+    { "name": "A/B Test Analysis",                 "difficulty": "Intermediate", "weeks": 2, "skills": ["Statistics", "Data Analysis", "SQL"] },
+    { "name": "Deep Learning Capstone",            "difficulty": "Advanced",     "weeks": 3, "skills": ["AI/ML", "Machine Learning", "Python"] }
+  ],
+  "Product Manager": [
+    { "name": "Product Teardown & PRD",            "difficulty": "Beginner",     "weeks": 1, "skills": ["Communication", "Problem Solving"] },
+    { "name": "User Research & Personas",          "difficulty": "Intermediate", "weeks": 2, "skills": ["Communication", "Data Analysis"] },
+    { "name": "Metrics Dashboard & North Star",    "difficulty": "Intermediate", "weeks": 2, "skills": ["Data Analysis", "Leadership"] },
+    { "name": "0-to-1 Feature Launch Plan",        "difficulty": "Advanced",     "weeks": 2, "skills": ["Leadership", "Marketing", "Communication"] }
+  ],
+  "Cybersecurity Analyst": [
+    { "name": "Home Lab: Network Hardening",       "difficulty": "Beginner",     "weeks": 2, "skills": ["Cybersecurity", "Problem Solving"] },
+    { "name": "Vulnerability Scan & Report",       "difficulty": "Intermediate", "weeks": 2, "skills": ["Cybersecurity", "Critical Thinking"] },
+    { "name": "SIEM Log Analysis Project",         "difficulty": "Intermediate", "weeks": 2, "skills": ["Cybersecurity", "Python"] },
+    { "name": "Cloud Security Posture Review",     "difficulty": "Advanced",     "weeks": 3, "skills": ["Cloud", "Cybersecurity"] }
+  ],
+  "Financial Analyst": [
+    { "name": "Company Financial Model",           "difficulty": "Beginner",     "weeks": 2, "skills": ["Excel", "Finance"] },
+    { "name": "Investment Valuation (DCF)",        "difficulty": "Intermediate", "weeks": 2, "skills": ["Finance", "Statistics", "Excel"] },
+    { "name": "Budget Variance Dashboard",         "difficulty": "Intermediate", "weeks": 2, "skills": ["Excel", "Data Analysis"] },
+    { "name": "Equity Research Report",            "difficulty": "Advanced",     "weeks": 3, "skills": ["Finance", "Communication", "Statistics"] }
+  ],
+  "Software Engineer": [
+    { "name": "REST API + Database CRUD App",      "difficulty": "Beginner",     "weeks": 2, "skills": ["Java", "SQL", "Problem Solving"] },
+    { "name": "Full-stack Web App",                "difficulty": "Intermediate", "weeks": 3, "skills": ["Java", "Python", "SQL"] },
+    { "name": "System Design Mini-Project",        "difficulty": "Advanced",     "weeks": 2, "skills": ["Problem Solving", "Critical Thinking", "Cloud"] },
+    { "name": "Deployed Cloud Service",            "difficulty": "Advanced",     "weeks": 2, "skills": ["Cloud", "Python"] }
+  ],
+  "Cloud Engineer": [
+    { "name": "Static Site on Cloud + CI",         "difficulty": "Beginner",     "weeks": 1, "skills": ["Cloud", "Git"] },
+    { "name": "Containerized App with Docker",     "difficulty": "Intermediate", "weeks": 2, "skills": ["Cloud", "Python"] },
+    { "name": "Infrastructure-as-Code Deploy",     "difficulty": "Advanced",     "weeks": 3, "skills": ["Cloud", "Cybersecurity"] },
+    { "name": "Kubernetes Multi-service Cluster",  "difficulty": "Advanced",     "weeks": 3, "skills": ["Cloud", "Problem Solving"] }
+  ]
+}

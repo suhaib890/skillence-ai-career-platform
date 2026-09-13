@@ -1,0 +1,22 @@
+{
+  "Data Analyst":          ["Excel", "SQL", "Power BI / Tableau", "Python", "Statistics", "Portfolio Projects", "Job Ready"],
+  "Business Analyst":      ["Excel", "Business Process Basics", "SQL", "Data Analysis", "Requirement Gathering", "Stakeholder Communication", "Portfolio Projects", "Job Ready"],
+  "AI Engineer":           ["Python", "Math & Statistics", "Machine Learning", "Deep Learning", "MLOps & Cloud", "End-to-End AI Projects", "Job Ready"],
+  "ML Engineer":           ["Python", "Statistics", "Machine Learning", "Model Deployment", "Cloud (AWS/GCP)", "MLOps Pipeline Projects", "Job Ready"],
+  "Software Engineer":     ["Programming Fundamentals", "Data Structures & Algorithms", "Git & Tooling", "Backend / Frontend Framework", "Databases", "System Design Basics", "Projects", "Job Ready"],
+  "Financial Analyst":     ["Excel", "Accounting & Finance Basics", "Financial Modeling", "Statistics", "Data Analysis", "Reporting Projects", "Job Ready"],
+  "Product Manager":       ["Product Fundamentals", "User Research", "Analytics & Metrics", "Roadmapping", "Stakeholder Communication", "Case Studies", "Job Ready"],
+  "Marketing Analyst":     ["Marketing Fundamentals", "Excel", "Google Analytics", "Data Analysis", "Statistics", "Campaign Reports", "Job Ready"],
+  "Cybersecurity Analyst": ["Networking Basics", "Operating Systems", "Security Fundamentals", "Python Scripting", "Cloud Security", "Hands-on Labs / CTFs", "Job Ready"],
+  "Data Scientist":        ["Python", "Statistics & Probability", "Data Analysis", "Machine Learning", "Deep Learning", "End-to-End DS Projects", "Job Ready"],
+  "Investment Analyst":    ["Finance Fundamentals", "Excel", "Valuation & Modeling", "Statistics", "Equity Research", "Research Reports", "Job Ready"],
+  "Cloud Engineer":        ["Linux & Networking", "Python Scripting", "One Cloud Provider (AWS/GCP/Azure)", "Containers (Docker/K8s)", "Infrastructure as Code", "Cloud Projects", "Job Ready"],
+  "UI/UX Designer":        ["Design Principles", "Figma / Canva", "Wireframing", "Prototyping", "User Research", "Design Portfolio", "Job Ready"],
+  "Sales Manager":         ["Sales Fundamentals", "Communication", "CRM Tools", "Negotiation", "Team Leadership", "Sales Track Record", "Job Ready"],
+  "Operations Analyst":    ["Excel", "Process Mapping", "SQL", "Data Analysis", "Dashboarding", "Process Improvement Projects", "Job Ready"],
+  "Digital Marketer":      ["Marketing Basics", "SEO", "Social Media & Content", "Canva / Video Editing", "Paid Ads", "Campaign Portfolio", "Job Ready"],
+  "Research Analyst":      ["Research Methods", "Statistics", "Data Analysis", "Writing", "Critical Thinking", "Published Reports", "Job Ready"],
+  "Teacher":               ["Subject Mastery", "Communication", "Public Speaking", "Lesson Planning", "Classroom Practice", "Certification", "Job Ready"],
+  "HR Analyst":            ["HR Fundamentals", "Excel", "HR Analytics", "Communication", "People Data Reporting", "Projects", "Job Ready"],
+  "Management Consultant": ["Business Fundamentals", "Problem Structuring", "Data Analysis", "Communication", "Case Interview Practice", "Consulting Projects", "Job Ready"]
+}

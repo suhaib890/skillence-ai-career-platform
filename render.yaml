@@ -1,0 +1,58 @@
+# Render Blueprint — Skillence FastAPI backend
+# Docs: https://render.com/docs/blueprint-spec
+#
+# Deploy: Render Dashboard → New → Blueprint → connect this GitHub repo.
+# Render auto-detects this file and provisions the service below.
+#
+# Supabase on Render: use Supabase's Shared Pooler / Session pooler URL for
+# DATABASE_URL, not the direct db.<project-ref>.supabase.co URL. The direct
+# Supabase host can resolve to IPv6, which Render services may not reach.
+#
+# NOTE: This uses the app's default SQLite database, which lives on the
+# instance's EPHEMERAL disk — data resets on every deploy and whenever a
+# free-tier instance spins down. To persist data, add a Render PostgreSQL
+# database and set DATABASE_URL to its Internal Connection String.
+
+services:
+  - type: web
+    name: skillence-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      # Pin a Python with prebuilt wheels for the ML stack (catboost/xgboost/numpy)
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      # Comma-separated allowed origins — set to your Netlify site URL after it deploys,
+      # e.g. https://skillence.netlify.app   (set in the dashboard; not committed)
+      - key: CORS_ORIGINS
+        sync: false
+      # Token signing secret — Render generates a strong value once and keeps it stable
+      - key: AUTH_SECRET
+        generateValue: true
+      # Admin bootstrap credentials (override the in-repo MVP defaults). Set in dashboard.
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      # Optional: enables LLM enhancement for Transition/Interview. Leave unset for the
+      # deterministic engine. Set in dashboard if you have a key.
+      - key: LLM_API_KEY
+        sync: false
+      # Set in dashboard for persistent storage. For Supabase on Render, use the
+      # Session pooler URL shown above, not the direct database URL.
+      - key: DATABASE_URL
+        sync: false
+      # Supabase on Render:
+      # postgresql+psycopg2://postgres.<project-ref>:<password>@aws-0-<region>.pooler.supabase.com:5432/postgres?sslmode=require
+      # For Render PostgreSQL instead of Supabase, set DATABASE_URL to the
+      # Render database Internal Connection String.
+
+# To enable persistence later, also add:
+# databases:
+#   - name: skillence-db
+#     plan: free

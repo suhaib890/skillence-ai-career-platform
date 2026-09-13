@@ -1,0 +1,21 @@
+# Netlify config — Skillence Next.js frontend
+# The repo is a monorepo; the frontend lives in ./frontend.
+#
+# Set this env var in the Netlify UI (Site settings → Environment variables)
+# BEFORE building, pointing at your Render backend:
+#   NEXT_PUBLIC_API_URL = https://skillence-api.onrender.com
+# (NEXT_PUBLIC_* values are baked in at build time.)
+
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Backend API base (public URL, baked in at build time). Update if the Render URL changes.
+  NEXT_PUBLIC_API_URL = "https://skillence-the-new-you.onrender.com"
+
+# Adds the Next.js runtime (SSR, image optimization, route handlers).
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

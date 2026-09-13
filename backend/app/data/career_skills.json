@@ -1,0 +1,22 @@
+{
+  "Data Analyst":          ["Excel", "SQL", "Power BI", "Statistics", "Data Analysis", "Python"],
+  "Business Analyst":      ["Excel", "SQL", "Communication", "Problem Solving", "Data Analysis", "Critical Thinking"],
+  "AI Engineer":           ["Python", "Machine Learning", "AI/ML", "SQL", "Cloud", "Problem Solving"],
+  "ML Engineer":           ["Python", "Machine Learning", "AI/ML", "SQL", "Cloud", "Statistics"],
+  "Software Engineer":     ["Java", "Python", "SQL", "Problem Solving", "Critical Thinking", "Cloud"],
+  "Financial Analyst":     ["Excel", "Finance", "Statistics", "Communication", "Data Analysis"],
+  "Product Manager":       ["Communication", "Leadership", "Problem Solving", "Marketing", "Data Analysis"],
+  "Marketing Analyst":     ["Marketing", "Excel", "Data Analysis", "Communication", "Statistics"],
+  "Cybersecurity Analyst": ["Cybersecurity", "Python", "Cloud", "Problem Solving", "Critical Thinking"],
+  "Data Scientist":        ["Python", "Statistics", "Machine Learning", "AI/ML", "SQL", "Data Analysis"],
+  "Investment Analyst":    ["Finance", "Excel", "Statistics", "Critical Thinking", "Communication"],
+  "Cloud Engineer":        ["Cloud", "Python", "SQL", "Problem Solving", "Cybersecurity"],
+  "UI/UX Designer":        ["Design", "Canva", "Communication", "Critical Thinking", "Problem Solving"],
+  "Sales Manager":         ["Sales", "Communication", "Leadership", "Marketing", "Public Speaking"],
+  "Operations Analyst":    ["Excel", "Data Analysis", "Problem Solving", "Communication", "SQL"],
+  "Digital Marketer":      ["Marketing", "Canva", "Video Editing", "Communication", "Writing"],
+  "Research Analyst":      ["Statistics", "Data Analysis", "Writing", "Critical Thinking", "Communication"],
+  "Teacher":               ["Teaching", "Communication", "Public Speaking", "Writing", "Critical Thinking"],
+  "HR Analyst":            ["Communication", "Excel", "Data Analysis", "Leadership", "Problem Solving"],
+  "Management Consultant": ["Communication", "Leadership", "Problem Solving", "Critical Thinking", "Data Analysis", "Finance"]
+}

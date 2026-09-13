@@ -1,0 +1,84 @@
+{
+  "hr": [
+    "Tell me about yourself.",
+    "Why should we hire you?",
+    "What are your greatest strengths?",
+    "What is your biggest weakness?",
+    "Where do you see yourself in five years?",
+    "Why do you want this role?",
+    "What motivates you at work?",
+    "How do you handle feedback and criticism?"
+  ],
+  "behavioral": [
+    "Describe a challenging project you worked on and how you handled it.",
+    "Tell me about a time you faced a conflict in a team and how you resolved it.",
+    "Describe a situation where you showed leadership.",
+    "Tell me about a time you failed and what you learned.",
+    "Describe a time you had to meet a tight deadline.",
+    "Tell me about a time you had to learn something new quickly.",
+    "Describe a situation where you disagreed with a manager.",
+    "Tell me about a time you went above and beyond for a result."
+  ],
+  "technical": {
+    "Data Analyst": [
+      { "q": "What is SQL and why is it important for a Data Analyst?", "difficulty": "Beginner", "concepts": ["database", "query", "tables", "retrieve"] },
+      { "q": "Explain the difference between INNER JOIN and LEFT JOIN.", "difficulty": "Intermediate", "concepts": ["inner join", "left join", "matching rows", "null"] },
+      { "q": "What is database normalization and why does it matter?", "difficulty": "Intermediate", "concepts": ["normalization", "redundancy", "tables", "integrity"] },
+      { "q": "Walk me through how you would build a sales dashboard in Power BI.", "difficulty": "Intermediate", "concepts": ["power bi", "data source", "visualization", "kpi", "dashboard"] },
+      { "q": "How would you handle missing or dirty data in a dataset?", "difficulty": "Intermediate", "concepts": ["missing", "clean", "impute", "outliers"] },
+      { "q": "Explain a case study: revenue dropped 20% last quarter — how do you investigate?", "difficulty": "Advanced", "concepts": ["segment", "trend", "hypothesis", "root cause", "metrics"] }
+    ],
+    "Business Analyst": [
+      { "q": "How do you gather and document requirements from stakeholders?", "difficulty": "Beginner", "concepts": ["requirements", "stakeholders", "documentation", "interviews"] },
+      { "q": "What is the difference between functional and non-functional requirements?", "difficulty": "Intermediate", "concepts": ["functional", "non-functional", "performance", "behavior"] },
+      { "q": "How would you prioritize features for a product backlog?", "difficulty": "Intermediate", "concepts": ["prioritize", "value", "effort", "impact", "moscow"] },
+      { "q": "Explain how you would analyze a drop in user engagement.", "difficulty": "Advanced", "concepts": ["funnel", "segment", "metrics", "hypothesis"] }
+    ],
+    "AI Engineer": [
+      { "q": "Explain the difference between supervised and unsupervised learning.", "difficulty": "Beginner", "concepts": ["supervised", "unsupervised", "labels", "clustering"] },
+      { "q": "What is overfitting and how do you prevent it?", "difficulty": "Intermediate", "concepts": ["overfitting", "regularization", "validation", "dropout", "generalize"] },
+      { "q": "Walk me through deploying a machine learning model to production.", "difficulty": "Advanced", "concepts": ["deploy", "api", "monitoring", "pipeline", "cloud"] },
+      { "q": "How would you design a recommendation system?", "difficulty": "Advanced", "concepts": ["collaborative", "content", "embeddings", "ranking"] }
+    ],
+    "Data Scientist": [
+      { "q": "Explain the bias-variance tradeoff.", "difficulty": "Intermediate", "concepts": ["bias", "variance", "underfitting", "overfitting"] },
+      { "q": "How do you evaluate a classification model?", "difficulty": "Intermediate", "concepts": ["precision", "recall", "f1", "roc", "confusion matrix"] },
+      { "q": "What is p-value and how do you interpret it in an A/B test?", "difficulty": "Advanced", "concepts": ["p-value", "significance", "hypothesis", "a/b"] },
+      { "q": "Describe an end-to-end data science project you would build.", "difficulty": "Advanced", "concepts": ["problem", "data", "model", "evaluation", "deploy"] }
+    ],
+    "Product Manager": [
+      { "q": "How do you decide what to build next?", "difficulty": "Beginner", "concepts": ["user", "value", "prioritize", "metrics", "roadmap"] },
+      { "q": "What metrics would you track for a new feature launch?", "difficulty": "Intermediate", "concepts": ["adoption", "retention", "engagement", "north star"] },
+      { "q": "How would you improve our product's onboarding?", "difficulty": "Intermediate", "concepts": ["onboarding", "activation", "friction", "funnel"] },
+      { "q": "Design a product for a new market segment — walk me through it.", "difficulty": "Advanced", "concepts": ["user research", "problem", "mvp", "metrics"] }
+    ],
+    "Cybersecurity Analyst": [
+      { "q": "What is the CIA triad in security?", "difficulty": "Beginner", "concepts": ["confidentiality", "integrity", "availability"] },
+      { "q": "Explain the difference between a vulnerability, threat, and risk.", "difficulty": "Intermediate", "concepts": ["vulnerability", "threat", "risk", "exploit"] },
+      { "q": "How would you respond to a suspected data breach?", "difficulty": "Advanced", "concepts": ["incident response", "contain", "investigate", "remediate"] },
+      { "q": "What are common ways to secure a cloud environment?", "difficulty": "Advanced", "concepts": ["iam", "encryption", "least privilege", "monitoring"] }
+    ],
+    "Financial Analyst": [
+      { "q": "Walk me through the three financial statements and how they connect.", "difficulty": "Beginner", "concepts": ["income statement", "balance sheet", "cash flow"] },
+      { "q": "What is a DCF and when would you use it?", "difficulty": "Intermediate", "concepts": ["dcf", "discount", "cash flow", "valuation"] },
+      { "q": "How do you analyze a company's financial health?", "difficulty": "Intermediate", "concepts": ["ratios", "liquidity", "profitability", "leverage"] },
+      { "q": "How would you build a financial model for a new product?", "difficulty": "Advanced", "concepts": ["assumptions", "revenue", "costs", "projection"] }
+    ],
+    "Software Engineer": [
+      { "q": "Explain the difference between an array and a linked list.", "difficulty": "Beginner", "concepts": ["array", "linked list", "memory", "access"] },
+      { "q": "What is the time complexity of binary search and why?", "difficulty": "Intermediate", "concepts": ["binary search", "log n", "sorted", "complexity"] },
+      { "q": "How would you design a URL shortener?", "difficulty": "Advanced", "concepts": ["hashing", "database", "scale", "api"] },
+      { "q": "Explain REST and what makes an API RESTful.", "difficulty": "Intermediate", "concepts": ["rest", "stateless", "http", "resources"] }
+    ],
+    "Marketing Analyst": [
+      { "q": "What marketing metrics do you consider most important and why?", "difficulty": "Beginner", "concepts": ["cac", "roi", "conversion", "ctr"] },
+      { "q": "How would you measure the success of a campaign?", "difficulty": "Intermediate", "concepts": ["kpi", "conversion", "attribution", "roi"] },
+      { "q": "How do you analyze which channel drives the best customers?", "difficulty": "Advanced", "concepts": ["attribution", "ltv", "segment", "channel"] }
+    ]
+  },
+  "technical_generic_templates": [
+    { "q": "What is {skill} and where have you used it?", "difficulty": "Beginner" },
+    { "q": "Walk me through a real project where you applied {skill}.", "difficulty": "Intermediate" },
+    { "q": "What are common mistakes or pitfalls when working with {skill}?", "difficulty": "Advanced" }
+  ]
+}
