@@ -10,6 +10,7 @@ import { Button } from "@/components/ui/Button";
 import { Card, CardBody } from "@/components/ui/Card";
 import { api } from "@/lib/api";
 import { useAuth } from "@/store/useAuth";
+import DeveloperTeam from "@/components/DeveloperTeam";
 
 const EMAIL_RE = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
 
@@ -18,7 +19,7 @@ export default function OnboardingPage() {
   const { user, setUser } = useAuth();
 
   const [hydrated, setHydrated] = useState(false);
-  const [fullName, setFullName] = useState("");
+  const [fullName, setFullName] = useState("Suhaib");
   const [email, setEmail] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -134,6 +135,7 @@ export default function OnboardingPage() {
               </form>
             </CardBody>
           </Card>
+      <DeveloperTeam />
         </motion.div>
       </div>
     </div>
